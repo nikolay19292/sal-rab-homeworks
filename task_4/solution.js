@@ -7,7 +7,7 @@ function parseProducts(json) {
     products = data.products;
     return products.data;
 
-    // Аргументом функции является JSON 1233454545665
+    // Аргументом функции является JSON
 
     // Преобразуйте строку json, переданную как аргумент функции,
     // в объект с помощью функции JSON.parse(json)
